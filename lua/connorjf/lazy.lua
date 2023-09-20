@@ -41,9 +41,9 @@ require('lazy').setup({
     },
 
     -- Debugging plugins
-     'mfussenegger/nvim-dap',
-     'rcarriga/nvim-dap-ui',
-     'leoluz/nvim-dap-go',
+        -- 'mfussenegger/nvim-dap',
+        -- 'rcarriga/nvim-dap-ui',
+        -- 'leoluz/nvim-dap-go',
 
     {
         -- Autocompletion
